@@ -1,0 +1,18 @@
+# Site wide configuration
+
+title: Ramon Bossardi Ramos Ph.D.
+locale: en_US
+theme: jekyll-theme-modernist
+
+
+owner:
+  name: Ramon Bossardi Ramos
+  avatar: IMG_6431.jpg
+  bio: "Ramon Bossardi Ramos website."
+  email: bossarr@amc.edu
+  twitter: ramonbossardi  
+  linkedin: #ramonbossardi
+  github: ramonbossardi
+  orcid: #0000-0001-8536-2606
+  google: Ramon Bossardi Ramos
+    
