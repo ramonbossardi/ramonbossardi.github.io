@@ -2,7 +2,7 @@
 # UNDER CONSTRUCTION
 ---
 
-<img align="left" width="100" height="100" src="IMG_6431.jpg"> ## Ramon Bossardi Ramos 
+<img align="left" width="150" height="150" src="IMG_6431.jpg"> ## Ramon Bossardi Ramos 
 
 ### bossarr < at > amc < dot > edu
 [PUBLICATIONS](https://www.ncbi.nlm.nih.gov/myncbi/1FSzeD3716F5r/bibliography/public/) | [CV]( ) | [GITHUB](https://github.com/ramonbossardi)
