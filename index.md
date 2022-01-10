@@ -11,6 +11,6 @@ I am a post-doc and joined the Adam lab in 2020 to study the endothelial respons
 ### Programming using R
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
 
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ramonbossardi&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
