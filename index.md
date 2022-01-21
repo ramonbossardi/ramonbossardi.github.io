@@ -2,7 +2,8 @@
 # UNDER CONSTRUCTION
 
 
-<img align="left" width="150" height="150" src="IMG_6431.jpg"> ## Ramon Bossardi Ramos 
+<img align="left" width="150" height="150" src="IMG_6431.jpg"> 
+## Ramon Bossardi Ramos 
 
 ### bossarr < at > amc < dot > edu
 [PUBLICATIONS](https://www.ncbi.nlm.nih.gov/myncbi/1FSzeD3716F5r/bibliography/public/) | [CV]( ) | [GITHUB](https://github.com/ramonbossardi)
@@ -18,10 +19,18 @@ To this end, I have been working with different techniques in the lab, which inv
 
 <h1>Education</h1>
 
-### Ph.D. 2014
- Molecular Endocrinology 
-  
-  
+<img align="left" width="30" height="30" src="education.png"> | **Ph.D. 2014
+ 
+Molecular Endocrinology 
+ 
+<img align="left" width="30" height="30" src="education.png"> | ### M.S. 2011
+
+Molecular Endocrinology 
+
+<img align="left" width="30" height="30" src="education.png"> | ### B.S. 2009
+
+Health Science
+
 
 
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
