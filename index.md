@@ -23,7 +23,7 @@
 |<h1>Education</h1>|<h1>Interests</h1>                                                  
 |:------------------|:-------------------------------------------------------------|
 |<img align="left" width="30" height="30" src="education.png">**Ph.D. 2014**|dsadasdasdsa|             
-|> Molecular Endocrinology|sadsads| 
+| Molecular Endocrinology|sadsads| 
  
 <img align="left" width="30" height="30" src="education.png">**M.S. 2011**
 
