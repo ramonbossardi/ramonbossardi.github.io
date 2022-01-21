@@ -34,15 +34,14 @@
 
 > Health Science
       
-<h1>Experience</h1>
+<h1>Repositories</h1>
 
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name              | Link              
+|:------------------|:-------------------------------------------------------------|
+| Champ/Methylation | [Champ](https://github.com/ramonbossardi/CHAMP-methylation-) |
+| Seurat/scRNA seq  | |
+| Metafor           | | 
+| Heatmap           | |
   
 
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
