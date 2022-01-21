@@ -36,14 +36,13 @@
       
 <h1>Experience</h1>
 
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoctoral Researcher</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.amc.edu/Research/MCP/" target="_blank" rel="noopener">Albany Medical College | Molecular and Cellular Physiology (MCP)</a></h4>
-            <div class="text-muted exp-meta">
-              May 2020 – Present
-              
-                <span class="middot-divider"></span>
-                <span>Albany, Ny</span>
-              
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
   
 
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
