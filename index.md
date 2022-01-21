@@ -12,7 +12,7 @@
 
 
 
-### Molecular Biology | Computational Biology | Functional Genomics | Epigenomics | scRNA-seq | RNA-seq | Education 
+###### Molecular Biology | Computational Biology | Functional Genomics | Epigenomics | scRNA-seq | RNA-seq | Education 
 
 <h1>Biography</h1>
 
