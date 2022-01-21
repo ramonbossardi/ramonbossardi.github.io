@@ -8,11 +8,22 @@
 [PUBLICATIONS](https://www.ncbi.nlm.nih.gov/myncbi/1FSzeD3716F5r/bibliography/public/) | [CV]( ) | [GITHUB](https://github.com/ramonbossardi)
 
 
-### Molecular Biology | Computational Biology | Functional Genomics | Epigenomics | scRNA-seq | RNA-seq | | Big Data
+### Molecular Biology | Computational Biology | Functional Genomics | Epigenomics | scRNA-seq | RNA-seq | Education | 
 
-I am a post-doc and joined the Adam lab in 2020 to study the endothelial response to inflammation and the implications of the IL-6/STAT3/SOCS3 pathway. I am committed to basic and translational research and have extensive knowledge and experience in molecular biology, with expertise in multifactorial disease studies and epigenetics mechanisms. As a master's and Ph.D. student at the Department of Molecular Endocrinology, Federal University of Rio Grande do Sul in Brazil, I conducted research seeking a better understanding of the molecular basis of multifactorial diseases that comprise both genetic and environmental components, such as polycystic ovary syndrome and type 2 diabetes. These studies provided me with a strong foundation on clinical and translational research. Then I took an 18-month position as a postdoctoral at Dr. Zhibin Wang at Johns Hopkins University Department of Environmental Sciences, where I studied the epigenetic codes in stem cells, embryonic development, and imprinted genes in both human and mouse genomes. I was responsible for library generation for whole genome methylation, next-gen sequencing and collaborated with a PhD student, Suzanne Martos, on the bioinformatic analyses. This study provided me with the required expertise in mechanisms of gene expression modulation and with a strong foundation in bioinformatics of large genetic datasets. In 2016 I moved back to Brazil with the goal of starting a new research program. However, due to political instability and severe cuts in research funding, this program never started. So, I decided to come back to the US to continue my research path. I joined the Adam lab in 2020 to study the endothelial response to inflammation and the implications of the activation of the IL-6/STAT3/SOCS3 pathway. 
+<h1>Biography</h1>
 
-### Programming using R
+I am a post-doc and joined the [Adam lab](adamlabs.org) in 2020 to study the endothelial response to inflammation and the implications of the IL-6/STAT3/SOCS3 pathway. I am committed to basic and translational research and have extensive knowledge and experience in molecular biology, with expertise in multifactorial disease studies and epigenetics mechanisms. I received my M.S. and Ph.D. from the [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/ppgendo/) in Brazil. [Johns Hopkins University](https://publichealth.jhu.edu/departments/environmental-health-and-engineering/research-and-practice/faculty-research-interests/the-wang-laboratory-of-human-environmental-epigenomes) was where I completed my first post-doc, where I studied the epigenetic codes in stem cells, embryonic development, and imprinted genes in both human and mouse genomes. I was responsible for library generation for whole-genome methylation, next-gen sequencing.  My research focuses on better understanding the implications of changes in epigenetic mechanisms and the long-term effects of the vascular endothelium dysfunction that is a hallmark of human diseases and focuses on researching endothelial activation, leukocyte migration, and inflammation.
+
+To this end, I have been working with different techniques in the lab, which involve: RNA seq, bisulfite DNA sequencing, cell culture, immunofluorescence, scrna-seq. These projects involve analysis that I perform using R including the steps of reference genomes, gene annotation, expression analysis, differential expression analysis, data visualization, and interpretation.
+
+<h1>Education</h1>
+
+### Ph.D. 2014
+ Molecular Endocrinology 
+  
+  
+
+
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
 
 
