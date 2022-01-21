@@ -24,12 +24,9 @@
 |:------------------|:-------------------------------------------------------------|
 |<img align="left" width="30" height="30" src="education.png">**Ph.D. 2014**|dsadasdasdsa|             
 | Molecular Endocrinology|sadsads| 
- 
-<img align="left" width="30" height="30" src="education.png">**M.S. 2011**
-
-> Molecular Endocrinology 
-
-<img align="left" width="30" height="30" src="education.png">**B.S. 2009**
+|<img align="left" width="30" height="30" src="education.png">**M.S. 2011**|               |
+|> Molecular Endocrinology|   |
+|<img align="left" width="30" height="30" src="education.png">**B.S. 2009**|               |
 
 > Health Science
       
