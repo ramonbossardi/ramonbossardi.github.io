@@ -20,7 +20,7 @@
  My research focuses on better understanding the implications of changes in epigenetic mechanisms and the long-term effects of the vascular endothelium dysfunction that is a hallmark of human diseases and focuses on researching endothelial activation, leukocyte migration, and inflammation.
  To this end, I have been working with different techniques in the lab, which involve: RNA seq, bisulfite DNA sequencing, cell culture, immunofluorescence, scrna-seq. These projects involve analysis that I perform using R including the steps of reference genomes, gene annotation, expression analysis, differential expression analysis, data visualization, and interpretation.
 
-| <h1>Education</h1>| <h1>Interests</h1>                                                  
+| <h1>Education</h1> | <h1>Interests</h1>    |                                              
 |:------------------|:-------------------------------------------------------------|
 |<img align="left" width="30" height="30" src="education.png">**Ph.D. 2014** - Molecular Endocrinology|dsadasdasdsa|             
 |<img align="left" width="30" height="30" src="education.png">**M.S. 2011** - Molecular Endocrinology|               |
