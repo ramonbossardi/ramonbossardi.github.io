@@ -34,182 +34,18 @@
 <img align="left" width="30" height="30" src="education.png">**B.S. 2009**
 
 > Health Science
-
-
-<section id="experience" class="home-section wg-experience   ">
-    <div class="container">
       
+<h1>Experience</h1>
 
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Experience</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-    
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col ">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border exp-fill">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Professor of Medicine</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://medschool.cuanschutz.edu/" target="_blank" rel="noopener">University of Colorado Anschutz School of Medicine</a></h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoctoral Researcher</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.amc.edu/Research/MCP/" target="_blank" rel="noopener">Albany Medical College | Molecular and Cellular Physiology (MCP)</a></h4>
             <div class="text-muted exp-meta">
-              January 2021 –
-              
-                Present
-              
+              May 2020 – Present
               
                 <span class="middot-divider"></span>
-                <span>Aurora, Colorado</span>
+                <span>Albany, Ny</span>
               
-            </div>
-            <div class="card-text">I am the Associate Director for Informatics and Data Science for the <a href="https://medschool.cuanschutz.edu/colorado-cancer-center">Comprehensive Cancer Center</a> and the Deputy Director for the <a href="https://medschool.cuanschutz.edu/ai">Center for Health AI</a>.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Staff and Senior Associate Scientist</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://ccr.cancer.gov" target="_blank" rel="noopener">Center for Cancer Research, National Cancer Institute, National Institutes of Health</a></h4>
-            <div class="text-muted exp-meta">
-              January 2008 –
-              
-                December 2020
-              
-              
-                <span class="middot-divider"></span>
-                <span>Bethesda, MD</span>
-              
-            </div>
-            <div class="card-text"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Clinical Fellow, Pediatric Hematology/Oncology</h4>
-            <h4 class="card-title exp-company text-muted my-0">Johns Hopkins University &amp; National Human Genome Research Institute, NIH</h4>
-            <div class="text-muted exp-meta">
-              July 2002 –
-              
-                December 2007
-              
-              
-                <span class="middot-divider"></span>
-                <span>Bethesda, MD</span>
-              
-            </div>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col ">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Resident, Pediatrics</h4>
-            <h4 class="card-title exp-company text-muted my-0">Childrens Hospital and Regional Medical Center</h4>
-            <div class="text-muted exp-meta">
-              July 1999 –
-              
-                June 2002
-              
-              
-                <span class="middot-divider"></span>
-                <span>Seattle, WA</span>
-              
-            </div>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    
-  </div>
-</div>
-
-    </div>
-  </section>
-
-
-
+  
 
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
 
