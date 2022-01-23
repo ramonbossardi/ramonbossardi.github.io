@@ -40,12 +40,18 @@
 | Name              | Link              
 |:------------------|:-------------------------------------------------------------|
 | Champ/Methylation | [Champ](https://github.com/ramonbossardi/CHAMP-methylation-) |
-| Seurat/scRNA seq  | |
+| Seurat/scRNA seq  | [Seurat](https://github.com/ramonbossardi/scrna-seq)|
 | Metafor           | [Metafor](https://github.com/ramonbossardi/metafor)| 
 | Heatmap           | [Heatmap](https://github.com/ramonbossardi/Heatmap_gene-expression)|
-| UkBiobank         | | 
+| UkBiobank         | [uk-biobank](https://github.com/ramonbossardi/uk-biobank)| 
 
-### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
+
+<h1> Technical Skills </h1>
+Molecular Biology: qPCR, Sanger Sequencing, Western Blot, Infinium Methylation EPIC Array, Bisulfite whole-genome sequencing (BS-seq) library construction
+Data Analysis: R, SPSS
+Imaging: Fluorescent microscopy
+
+> Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
 
 
 
