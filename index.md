@@ -12,8 +12,7 @@
 
 
 
-[PUBLICATIONS](https://www.ncbi.nlm.nih.gov/myncbi/1FSzeD3716F5r/bibliography/public/) [CV]( ) [GITHUB](https://github.com/ramonbossardi) [Google Scholar](https://scholar.google.com/citations?user=uUOCRPgAAAAJ&hl=en)
-
+[PUBLICATIONS](https://www.ncbi.nlm.nih.gov/myncbi/1FSzeD3716F5r/bibliography/public/) [CV](https://drive.google.com/file/d/1o-wazj-VRgB7hqhqdCg7u7388BjVgg2C/view?usp=sharing) [GITHUB](https://github.com/ramonbossardi) [Google Scholar](https://scholar.google.com/citations?user=uUOCRPgAAAAJ&hl=en)
 
 
 
