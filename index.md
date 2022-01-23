@@ -41,8 +41,8 @@
 |:------------------|:-------------------------------------------------------------|
 | Champ/Methylation | [Champ](https://github.com/ramonbossardi/CHAMP-methylation-) |
 | Seurat/scRNA seq  | |
-| Metafor           | | 
-| Heatmap           | |
+| Metafor           | [Metafor](https://github.com/ramonbossardi/metafor)| 
+| Heatmap           | [Heatmap](https://github.com/ramonbossardi/Heatmap_gene-expression)|
 | UkBiobank         | | 
 
 ### Academics: Bioinformatics, RNA-seq, scRNA-seq, EPIC Methylation Array 
